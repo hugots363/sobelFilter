@@ -1,0 +1,3 @@
+/home/moga/Sobel/CMakeFiles/DisplayImage.dir
+/home/moga/Sobel/CMakeFiles/edit_cache.dir
+/home/moga/Sobel/CMakeFiles/rebuild_cache.dir
